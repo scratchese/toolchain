@@ -1,8 +1,8 @@
 <h1 align="center">
-⚙️ amazingandyyy toolchain
+⚙️ scratchese toolchain
 </h1>
 <p align="center">
-Full set of tools, purely no dependencies.
+A tool chain built from scratch.
 </p>
 
 <p align="center">
@@ -11,7 +11,12 @@ Full set of tools, purely no dependencies.
    </a>
 </p>
 
-Topic: https://github.com/topics/open-amazingandyyy
+> Where are you from?
+> I am from scratch
+> Oh! you are the scratchese
+> 🙌
+
+Topic: https://github.com/topics/scratchese
 
 > ZERO dependencies
 > Open source
