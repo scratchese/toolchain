@@ -18,8 +18,13 @@ A tool chain built from scratch.
 
 Topic: https://github.com/topics/scratchese
 
+> Build everthing from scratch
+
 > ZERO dependencies
+
 > Open source
+
+## Projects
 
 | @amazingandyyy/       | Similar library | Category | CI | Project Status | Todo |
 | ------------- | ------------- | ------------- | ------------- | ------------- |------------- |
