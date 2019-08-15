@@ -24,7 +24,7 @@ Topic: https://github.com/topics/scratchese
 
 > Open source
 
-## Projects
+## Scratchese Citizens
 
 | @amazingandyyy/       | Similar library | Category | CI | Project Status | Todo |
 | ------------- | ------------- | ------------- | ------------- | ------------- |------------- |
@@ -38,7 +38,7 @@ Topic: https://github.com/topics/scratchese
 
 ## Starter kit
 
-https://github.com/amazingandyyy/open-amazingandyyy-project
+https://github.com/amazingandyyy/scratchese-origin
 
 ## To-do
 - benchmark
