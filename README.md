@@ -23,7 +23,7 @@ Topic: https://github.com/topics/scratchese
 
 ## Scratchese Citizens
 
-| @amazingandyyy/       | Similar library | Category | CI | Project Status | Todo |
+| name       | Similar library | Category | CI | Project Status | Todo |
 | ------------- | ------------- | ------------- | ------------- | ------------- |------------- |
 | [node-runner](https://github.com/amazingandyyy/node-runner)  | nodemon, babel-watch  | tool | [![node-runner](https://circleci.com/gh/amazingandyyy/node-runner.svg?style=svg)](https://circleci.com/gh/amazingandyyy/node-runner) | stable |  |
 | [git-hooks](https://github.com/amazingandyyy/git-hooks)  | husky | tool | [![git-hooks](https://circleci.com/gh/amazingandyyy/git-hooks.svg?style=svg)](https://circleci.com/gh/amazingandyyy/git-hooks) | stable | |
