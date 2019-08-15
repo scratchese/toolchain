@@ -1,4 +1,4 @@
-# ⚙️ Open amazingandyyy toolchain
+# ⚙️ amazingandyyy toolchain
 
 Tech Stack
 
