@@ -2,7 +2,7 @@
 ⚙️ scratchese toolchain
 </h1>
 <p align="center">
-A tool chain built from scratch.
+A tool chainbuilt built up from scratch.
 </p>
 
 <p align="center">
