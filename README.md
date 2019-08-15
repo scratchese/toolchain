@@ -4,7 +4,7 @@ Topic: https://github.com/topics/open-amazingandyyy
 
 > ZERO dependencies
 
-| Package @amazingandyyy/       | Similar library | Category | CI | Project Status | Todo |
+| @amazingandyyy/       | Similar library | Category | CI | Project Status | Todo |
 | ------------- | ------------- | ------------- | ------------- | ------------- |------------- |
 | [node-runner](https://github.com/amazingandyyy/node-runner)  | nodemon, babel-watch  | developer tool | [![node-runner](https://circleci.com/gh/amazingandyyy/node-runner.svg?style=svg)](https://circleci.com/gh/amazingandyyy/node-runner) | stable |  |
 | [git-hooks](https://github.com/amazingandyyy/git-hooks)  | husky | developer tool | [![git-hooks](https://circleci.com/gh/amazingandyyy/git-hooks.svg?style=svg)](https://circleci.com/gh/amazingandyyy/git-hooks) | RC-1 | fix CI env |
