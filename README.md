@@ -12,7 +12,7 @@ A tool chain built from scratch.
 </p>
 
 > Where are you from?
-> I am from scratch
+> I am built up from scratch
 > Oh! you are the scratchese
 > 🙌
 
