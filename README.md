@@ -1,4 +1,4 @@
-# open-amazingandyyy
+# Open amazingandyyy toolchain
 
 Tech Stack
 
