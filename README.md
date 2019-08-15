@@ -1,8 +1,11 @@
-# open-amazingandyyy-stack
+# open-amazingandyyy
+
+Tech Stack
 
 Topic: https://github.com/topics/open-amazingandyyy
 
 > ZERO dependencies
+> Open source
 
 | @amazingandyyy/       | Similar library | Category | CI | Project Status | Todo |
 | ------------- | ------------- | ------------- | ------------- | ------------- |------------- |
