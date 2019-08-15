@@ -15,7 +15,7 @@ Topic: https://github.com/topics/open-amazingandyyy
 | [server-logger](https://github.com/amazingandyyy/server-logger)  | morgan  | server | [![server-logger](https://circleci.com/gh/amazingandyyy/server-logger.svg?style=svg)](https://circleci.com/gh/amazingandyyy/server-logger) | stable |  |
 | [body-parser](https://github.com/amazingandyyy/body-parser)  | body-parser | server | [![body-parser](https://circleci.com/gh/amazingandyyy/body-parser.svg?style=svg)](https://circleci.com/gh/amazingandyyy/body-parser) | WIP | better handle |
 | [qs](https://github.com/amazingandyyy/qs)  | query-string, qs | utility | [![qs](https://circleci.com/gh/amazingandyyy/qs.svg?style=svg)](https://circleci.com/gh/amazingandyyy/qs) | WIP | stabilize |
-| [markdeck](https://github.com/amazingandyyy/markdeck)  | mdx-deck  | creativity | [![markdeck](https://circleci.com/gh/amazingandyyy/markdeck.svg?style=svg)](https://circleci.com/gh/amazingandyyy/markdeck) | stable |  |
+| [markdeck](https://github.com/amazingandyyy/markdeck)  | mdx-deck  | creativity | [![markdeck](https://circleci.com/gh/amazingandyyy/markdeck.svg?style=svg)](https://circleci.com/gh/amazingandyyy/markdeck) | stable | demo video |
 
 ## Starter kit
 
