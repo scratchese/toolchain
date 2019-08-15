@@ -17,5 +17,10 @@ Topic: https://github.com/topics/open-amazingandyyy
 | [qs](https://github.com/amazingandyyy/qs)  | query-string, qs | utility | [![qs](https://circleci.com/gh/amazingandyyy/qs.svg?style=svg)](https://circleci.com/gh/amazingandyyy/qs) | WIP | stabilize |
 | [markdeck](https://github.com/amazingandyyy/markdeck)  | parcel, nextjs  | creativity | [![markdeck](https://circleci.com/gh/amazingandyyy/markdeck.svg?style=svg)](https://circleci.com/gh/amazingandyyy/markdeck) | stable |  |
 
+## Starter kit
+
+https://github.com/amazingandyyy/open-amazingandyyy-project
+
 ## To-do
 - benchmark
+- Code of conduct
