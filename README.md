@@ -10,7 +10,7 @@ Topic: https://github.com/topics/open-amazingandyyy
 | @amazingandyyy/       | Similar library | Category | CI | Project Status | Todo |
 | ------------- | ------------- | ------------- | ------------- | ------------- |------------- |
 | [node-runner](https://github.com/amazingandyyy/node-runner)  | nodemon, babel-watch  | tool | [![node-runner](https://circleci.com/gh/amazingandyyy/node-runner.svg?style=svg)](https://circleci.com/gh/amazingandyyy/node-runner) | stable |  |
-| [git-hooks](https://github.com/amazingandyyy/git-hooks)  | husky | tool | [![git-hooks](https://circleci.com/gh/amazingandyyy/git-hooks.svg?style=svg)](https://circleci.com/gh/amazingandyyy/git-hooks) | RC-1 | fix CI env |
+| [git-hooks](https://github.com/amazingandyyy/git-hooks)  | husky | tool | [![git-hooks](https://circleci.com/gh/amazingandyyy/git-hooks.svg?style=svg)](https://circleci.com/gh/amazingandyyy/git-hooks) | stable | |
 | [node-server](https://github.com/amazingandyyy/node-server)  | express, koa  | framework | [![node-server](https://circleci.com/gh/amazingandyyy/node-server.svg?style=svg)](https://circleci.com/gh/amazingandyyy/node-server) | RC-1 | router/mid-middleware |
 | [server-logger](https://github.com/amazingandyyy/server-logger)  | morgan  | server | [![server-logger](https://circleci.com/gh/amazingandyyy/server-logger.svg?style=svg)](https://circleci.com/gh/amazingandyyy/server-logger) | stable |  |
 | [body-parser](https://github.com/amazingandyyy/body-parser)  | body-parser | server | [![body-parser](https://circleci.com/gh/amazingandyyy/body-parser.svg?style=svg)](https://circleci.com/gh/amazingandyyy/body-parser) | WIP | better handle |
