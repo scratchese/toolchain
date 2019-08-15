@@ -12,17 +12,14 @@ A tool chainbuilt built up from scratch.
 </p>
 
 > Where are you from?
+
 > I am built up from scratch
+
 > Oh! you are the scratchese
+
 > 🙌
 
 Topic: https://github.com/topics/scratchese
-
-> Build everthing from scratch
-
-> ZERO dependencies
-
-> Open source
 
 ## Scratchese Citizens
 
@@ -35,6 +32,19 @@ Topic: https://github.com/topics/scratchese
 | [body-parser](https://github.com/amazingandyyy/body-parser)  | body-parser | server | [![body-parser](https://circleci.com/gh/amazingandyyy/body-parser.svg?style=svg)](https://circleci.com/gh/amazingandyyy/body-parser) | WIP | better handle |
 | [qs](https://github.com/amazingandyyy/qs)  | query-string, qs | utility | [![qs](https://circleci.com/gh/amazingandyyy/qs.svg?style=svg)](https://circleci.com/gh/amazingandyyy/qs) | WIP | add features |
 | [markdeck](https://github.com/amazingandyyy/markdeck)  | mdx-deck  | creativity | [![markdeck](https://circleci.com/gh/amazingandyyy/markdeck.svg?style=svg)](https://circleci.com/gh/amazingandyyy/markdeck) | stable | demo video |
+
+## Immigrate to Scratch
+
+1. Build everthing **from scratch**
+
+2. ZERO dependencies
+
+3. Open source
+
+4. Minimalism
+
+5. Innovative
+
 
 ## Starter kit
 
