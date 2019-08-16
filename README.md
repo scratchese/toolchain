@@ -32,7 +32,7 @@ Topic: https://github.com/topics/scratchese
 | [body-parser](https://github.com/amazingandyyy/body-parser)  | body-parser | server | [![body-parser](https://circleci.com/gh/amazingandyyy/body-parser.svg?style=svg)](https://circleci.com/gh/amazingandyyy/body-parser) | WIP | better handle |
 | [qs](https://github.com/amazingandyyy/qs)  | query-string, qs | utility | [![qs](https://circleci.com/gh/amazingandyyy/qs.svg?style=svg)](https://circleci.com/gh/amazingandyyy/qs) | WIP | add features |
 | [markdeck](https://github.com/amazingandyyy/markdeck)  | mdx-deck  | creativity | [![markdeck](https://circleci.com/gh/amazingandyyy/markdeck.svg?style=svg)](https://circleci.com/gh/amazingandyyy/markdeck) | stable | demo video |
-| [levelize](https://github.com/amazingandyyy/levelize)  | db driver  | creativity | [![markdeck](https://circleci.com/gh/amazingandyyy/levelize.svg?style=svg)](https://circleci.com/gh/amazingandyyy/levelize) | WIP | not even MVP |
+| [levelize](https://github.com/amazingandyyy/levelize)  | mongoose, level-mongo  | db driver | [![markdeck](https://circleci.com/gh/amazingandyyy/levelize.svg?style=svg)](https://circleci.com/gh/amazingandyyy/levelize) | WIP | not even MVP |
 
 ## Immigrate to Scratch
 
