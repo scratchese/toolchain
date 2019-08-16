@@ -38,7 +38,7 @@ Topic: https://github.com/topics/scratchese
 
 1. Build everthing **from scratch**
 
-2. ZERO dependencies
+2. nearly ZERO dependencies
 
 3. Open source
 
