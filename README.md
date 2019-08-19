@@ -2,7 +2,7 @@
 🧰 scratchese toolchain ⚙️
 </h1>
 <p align="center">
-A tool chainbuilt built up from scratch.
+A toolchain purely built up from scratch.
 </p>
 
 <p align="center">
@@ -27,11 +27,11 @@ Topic: https://github.com/topics/scratchese
 | ------------- | ------------- | ------------- | ------------- | ------------- |------------- |
 | [node-runner](https://github.com/amazingandyyy/node-runner)  | nodemon, babel-watch  | tool | [![node-runner](https://circleci.com/gh/amazingandyyy/node-runner.svg?style=svg)](https://circleci.com/gh/amazingandyyy/node-runner) | stable |  |
 | [git-hooks](https://github.com/amazingandyyy/git-hooks)  | husky | tool | [![git-hooks](https://circleci.com/gh/amazingandyyy/git-hooks.svg?style=svg)](https://circleci.com/gh/amazingandyyy/git-hooks) | stable | |
-| [node-server](https://github.com/amazingandyyy/node-server)  | express, koa  | framework | [![node-server](https://circleci.com/gh/amazingandyyy/node-server.svg?style=svg)](https://circleci.com/gh/amazingandyyy/node-server) | RC-1 | router/mid-middleware |
+| [node-server](https://github.com/amazingandyyy/node-server)  | express, koa  | framework | [![node-server](https://circleci.com/gh/amazingandyyy/node-server.svg?style=svg)](https://circleci.com/gh/amazingandyyy/node-server) | RC-2 | router |
 | [server-logger](https://github.com/amazingandyyy/server-logger)  | morgan  | server | [![server-logger](https://circleci.com/gh/amazingandyyy/server-logger.svg?style=svg)](https://circleci.com/gh/amazingandyyy/server-logger) | stable |  |
 | [body-parser](https://github.com/amazingandyyy/body-parser)  | body-parser | server | [![body-parser](https://circleci.com/gh/amazingandyyy/body-parser.svg?style=svg)](https://circleci.com/gh/amazingandyyy/body-parser) | WIP | better handle |
 | [markdeck](https://github.com/amazingandyyy/markdeck)  | mdx-deck  | creativity | [![markdeck](https://circleci.com/gh/amazingandyyy/markdeck.svg?style=svg)](https://circleci.com/gh/amazingandyyy/markdeck) | stable | demo video |
-| [levelize](https://github.com/amazingandyyy/levelize)  | mongoose, level-mongo  | db driver | [![markdeck](https://circleci.com/gh/amazingandyyy/levelize.svg?style=svg)](https://circleci.com/gh/amazingandyyy/levelize) | WIP | not even MVP |
+| [levelize](https://github.com/amazingandyyy/levelize)  | mongoose, level-mongo  | db driver | [![markdeck](https://circleci.com/gh/amazingandyyy/levelize.svg?style=svg)](https://circleci.com/gh/amazingandyyy/levelize) | WIP | towards to MVP |
 
 ## Immigrate to Scratch
 
@@ -46,10 +46,12 @@ Topic: https://github.com/topics/scratchese
 5. Innovative
 
 
-## Starter kit
+## Starter kit (origin)
 
 https://github.com/amazingandyyy/scratchese-origin [![scratchese-origin](https://circleci.com/gh/amazingandyyy/scratchese-origin.svg?style=svg)](https://circleci.com/gh/amazingandyyy/scratchese-origin)
 
 ## To-do
 - benchmark
+   - pkg size
+   - speed
 - Code of conduct
