@@ -48,7 +48,7 @@ Topic: https://github.com/topics/scratchese
 
 ## Starter kit (origin)
 
-https://github.com/amazingandyyy/scratchese-origin [![scratchese-origin](https://circleci.com/gh/amazingandyyy/scratchese-origin.svg?style=svg)](https://circleci.com/gh/amazingandyyy/scratchese-origin)
+https://github.com/scratchese/origin [![scratchese-origin](https://circleci.com/gh/amazingandyyy/scratchese-origin.svg?style=svg)](https://circleci.com/gh/amazingandyyy/scratchese-origin)
 
 ## To-do
 - benchmark
