@@ -35,7 +35,7 @@ Topic: https://github.com/topics/scratchese
 
 ## Immigrate to Scratch
 
-1. Build everthing **from scratch**
+1. Build everything **from scratch**
 
 2. nearly ZERO dependencies
 
