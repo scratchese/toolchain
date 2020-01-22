@@ -13,7 +13,7 @@ A toolchain purely built up from scratch.
 
 > Where are you from?
 
-> I am built up from scratch
+> I am built from scratch
 
 > Oh! you are the scratchese
 
